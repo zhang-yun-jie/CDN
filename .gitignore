@@ -42,8 +42,6 @@ Temporary Items
 .apdisk
 
 .idea
-node_modules
-/packages/examples/
 /pnpm-lock.yaml
 .ossignore
 alioss.config.js
