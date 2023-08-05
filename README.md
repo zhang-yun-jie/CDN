@@ -1,6 +1,7 @@
 ## cdn
 ```
 https://cdn.jsdelivr.net/gh/zhang-yun-jie/cdn@version/example.js
+https://fastly.jsdelivr.net/gh/zhang-yun-jie/cdn@version/example.js
 https://cdn.staticaly.com/gh/zhang-yun-jie/cdn@branch/example.js
 ```
 
