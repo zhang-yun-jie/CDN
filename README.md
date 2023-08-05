@@ -3,7 +3,7 @@
 https://cdn.jsdelivr.net/gh/zhang-yun-jie/cdn@version/example.js
 https://fastly.jsdelivr.net/gh/zhang-yun-jie/cdn@version/example.js
 https://cdn.staticaly.com/gh/zhang-yun-jie/cdn@branch/example.js
-或者直接部署
+或者部署
 https://vercel.com/
 ```
 
