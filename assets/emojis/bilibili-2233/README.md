@@ -1,9 +1,3 @@
-## CDN Link
-
-```
-https://cdn.jsdelivr.net/gh/irithys/src/emojis/bilibili-2233
-```
-
 ## Thanks
 
 Thanks to Bilibili for designing emoticons.

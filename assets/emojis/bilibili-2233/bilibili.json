@@ -1,0 +1,66 @@
+{
+    "name": "bilibili",
+    "type": "image",
+    "items": [
+        {
+            "key": "chijing",
+            "val": "https://cdn.zhangyunjie.com.cn/assets/emojis/bilibili-2233/bili_2233_chijing.png"
+        },
+        {
+            "key": "daku",
+            "val": "https://cdn.zhangyunjie.com.cn/assets/emojis/bilibili-2233/bili_2233_daku.png"
+        },
+        {
+            "key": "daku",
+            "val": "https://cdn.zhangyunjie.com.cn/assets/emojis/bilibili-2233/bili_2233_daxiao.png"
+        },
+        {
+            "key": "daku",
+            "val": "https://cdn.zhangyunjie.com.cn/assets/emojis/bilibili-2233/bili_2233_diyi.png"
+        },
+        {
+            "key": "daku",
+            "val": "https://cdn.zhangyunjie.com.cn/assets/emojis/bilibili-2233/bili_2233_han.png"
+        },
+        {
+            "key": "daku",
+            "val": "https://cdn.zhangyunjie.com.cn/assets/emojis/bilibili-2233/bili_2233_heshui.png"
+        },
+        {
+            "key": "daku",
+            "val": "https://cdn.zhangyunjie.com.cn/assets/emojis/bilibili-2233/bili_2233_kunhuo.png"
+        },
+        {
+            "key": "daku",
+            "val": "https://cdn.zhangyunjie.com.cn/assets/emojis/bilibili-2233/bili_2233_maimeng.png"
+        },
+        {
+            "key": "daku",
+            "val": "https://cdn.zhangyunjie.com.cn/assets/emojis/bilibili-2233/bili_2233_nu.png"
+        },
+        {
+            "key": "daku",
+            "val": "https://cdn.zhangyunjie.com.cn/assets/emojis/bilibili-2233/bili_2233_tuhun.png"
+        },
+        {
+            "key": "daku",
+            "val": "https://cdn.zhangyunjie.com.cn/assets/emojis/bilibili-2233/bili_2233_weiqu.png"
+        },
+        {
+            "key": "daku",
+            "val": "https://cdn.zhangyunjie.com.cn/assets/emojis/bilibili-2233/bili_2233_wuyan.png"
+        },
+        {
+            "key": "daku",
+            "val": "https://cdn.zhangyunjie.com.cn/assets/emojis/bilibili-2233/bili_2233_ye.png"
+        },
+        {
+            "key": "daku",
+            "val": "https://cdn.zhangyunjie.com.cn/assets/emojis/bilibili-2233/bili_2233_yiwen.png"
+        },
+        {
+            "key": "daku",
+            "val": "https://cdn.zhangyunjie.com.cn/assets/emojis/bilibili-2233/bili_2233_yumen.png"
+        }
+    ]
+}
