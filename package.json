@@ -1,0 +1,19 @@
+{
+  "name": "zhangyunjie",
+  "version": "1.0.0",
+  "description": "zhangyunjie.com.cn:9000/blog/zhangyunjie",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhang-yun-jie/cdn.git"
+  },
+  "author": "zhangyunjie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhang-yun-jie/cdn/issues"
+  },
+  "homepage": "https://github.com/zhang-yun-jie/cdn#readme"
+}
