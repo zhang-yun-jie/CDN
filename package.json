@@ -1,19 +1,28 @@
 {
-  "name": "zhangyunjie",
-  "version": "1.1.1",
+  "name": "@zhangyunjie/cdn",
+  "version": "1.0.0",
+  "private": false,
   "description": "zhangyunjie.com.cn:9000/blog/zhangyunjie",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "author": "zhangyunjie",
+  "publishConfig": {
+    "access": "public"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=6.0.0"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/zhang-yun-jie/cdn.git"
   },
-  "author": "zhangyunjie",
-  "license": "ISC",
   "bugs": {
     "url": "https://github.com/zhang-yun-jie/cdn/issues"
   },
-  "homepage": "https://github.com/zhang-yun-jie/cdn#readme"
+  "homepage": "https://github.com/zhang-yun-jie/cdn",
+  "keywords": [
+    "cdn"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
 }
