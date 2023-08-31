@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": false,
   "description": "zhangyunjie.com.cn:9000/blog/zhangyunjie",
-  "author": "zhangyunjie",
+  "author": "zhangyunjie <1520420636@qq.com>",
   "publishConfig": {
     "access": "public"
   },
