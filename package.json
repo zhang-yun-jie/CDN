@@ -22,6 +22,8 @@
   "keywords": [
     "cdn"
   ],
-  "scripts": {
+  "scripts": {},
+  "dependencies": {
+    "@waline/client": "^3.5.6"
   }
 }
